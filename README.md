@@ -1,2 +1,2 @@
-# tony_segal.github.io
+# Tony Segal
 Professional website for Tony Segal
